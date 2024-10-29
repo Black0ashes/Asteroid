@@ -1,0 +1,6 @@
+se\asteroid\test\JUnitTestSuite.class
+se\asteroid\test\AsteroidTests.class
+se\asteroid\test\PlayerShipTest.class
+se\asteroid\test\BossTest.class
+se\asteroid\test\ScoringTest.class
+se\asteroid\test\PlayerShipActionTests.class
